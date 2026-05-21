@@ -1,0 +1,11 @@
+{
+  "AP_SSID": "TestNetwork",
+  "AP_PASS": "testpassword123",
+  "AP_IP": "192.168.10.1",
+  "WAN_IFACE": "eth0",
+  "WIFI_IFACE": "wlan0",
+  "DASHBOARD_PORT": 5001,
+  "AP_CHANNEL": 6,
+  "AP_COUNTRY": "US",
+  "AP_HW_MODE": "g"
+}
